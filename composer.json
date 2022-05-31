@@ -33,5 +33,11 @@
             "Huddle\\Zendesk\\": "src"
         }
     },
+    "repositories": [
+        {
+            "type": "vcs",
+            "url":  "git@github.com:MiaShare/zendesk-laravel.git"
+        }
+	],
     "minimum-stability": "stable"
 }
